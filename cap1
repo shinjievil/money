@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "movie": "Moneda de Un Nuevo Sol alusiva a - La Anchoveta",
+      "year": 9999,
+      "rating": 9.9,
+      "duration": "99 m",
+      "director": "BCR",
+      "tagline": "La Anchoveta",
+      "cast": [
+        {
+          "name": "BCR"
+        },
+      ],
+      "image": "http://www.bcrp.gob.pe/images/stories/Billetes-y-Monedas/rnp-anchoveta.jpg",
+      "story": "En la parte central, se distingue la figura de dos anchovetas y debajo una representación de la cultura Moche con escenas cotidianas de la vida marítima, mientras que en la parte superior se muestra la frase LA  ANCHOVETA y su nombre científico ENGRAULIS RINGENS."
+    },
+    {
+      "movie": "Moneda de Un Nuevo Sol alusiva a - El Cacao",
+      "year": 9999,
+      "rating": 9.9,
+      "duration": "99 m",
+      "director": "BCR",
+      "tagline": "El Cacao",
+      "cast": [
+        {
+          "name": "BCR"
+        },
+      ],
+      "image": "http://www.bcrp.gob.pe/images/stories/Billetes-y-Monedas/rnp-cacao.jpg",
+      "story": "Al centro figura un árbol de cacao y al pie una ampliación del fruto. En el área superior se muestra la leyenda EL CACAO y su nombre científico THEOBROMA CACAO."
+    },
+    {
+      "movie": "Moneda de Un Nuevo Sol alusiva a - La Quinua",
+      "year": 9999,
+      "rating": 9.9,
+      "duration": "99 m",
+      "director": "BCR",
+      "tagline": "La Quinua",
+      "cast": [
+        {
+          "name": "BCR"
+        },
+      ],
+      "image": "http://www.bcrp.gob.pe/images/stories/Billetes-y-Monedas/rnp-quinua.jpg",
+      "story": "En el centro figura una panoja de quinua y al pie un recipiente vertiendo granos en abundancia. En la parte superior figura el texto LA QUINUA y su nombre científico CHENOPODIUM QUINOA."
+    }   
+  ]
+}
